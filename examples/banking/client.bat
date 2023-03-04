@@ -1,0 +1,1 @@
+java -classpath ..\nframework\client\build\libs\nframework-client.jar;..\nframework\common\build\libs\nframework-common.jar;e:\gson\gson-2.8.9.jar;. BankUI %1

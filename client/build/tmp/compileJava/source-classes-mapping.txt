@@ -1,0 +1,2 @@
+nframework/client/NFrameworkClient.java
+ nframework.client.NFrameworkClient

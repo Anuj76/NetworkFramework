@@ -1,0 +1,1 @@
+java -classpath ..\nframework\server\build\libs\nframework-server.jar;e:\gson\gson-2.8.9.jar;..\nframework\common\build\libs\nframework-common.jar;. Bank

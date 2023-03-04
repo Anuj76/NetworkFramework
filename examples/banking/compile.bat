@@ -1,0 +1,1 @@
+javac -classpath ..\nframework\server\build\libs\nframework-server.jar;..\nframework\client\build\libs\nframework-client.jar;..\nframework\common\build\libs\nframework-common.jar;. *.java
